@@ -1,16 +1,12 @@
 # mystopwatch
 
-A new Flutter project.
+A basic stopwatch app that displays minutes, seconds and milliseconds and allows users to start, pause and reset the timer.
 
-## Getting Started
+# context
 
-This project is a starting point for a Flutter application.
+In this app I've added a teal-colour based theme, a feature of Lap Recording, and used elements such as CircularProgressIndicator to provide a visual representation of the elapsed time within a minute. 
 
-A few resources to get you started if this is your first Flutter project:
+# output video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/khushitriv18/PRODIGY_AD_03/assets/169227271/4cc2d5ac-24a0-4fec-8f20-29b2078d033a
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
